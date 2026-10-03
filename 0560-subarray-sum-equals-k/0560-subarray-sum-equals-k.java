@@ -4,13 +4,13 @@ class Solution {
         int count = 0;
         int len = nums.length;
 
-        for (int left = 0; left < len; left++) {
+        for (int i = 0; i < len; i++) {
 
             int sum = 0;
 
-            for (int i = left; i < len; i++) {
+            for (int j = i; j < len; j++) {
 
-                sum += nums[i];
+                sum += nums[j];
 
                 if (sum == k) {
                     count++;
