@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mehakdeep06/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/Mehakdeep06/DSA/tree/master/0141-linked-list-cycle) |
 | [0560-subarray-sum-equals-k](https://github.com/Mehakdeep06/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Mehakdeep06/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mehakdeep06/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -58,9 +59,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Mehakdeep06/DSA/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Mehakdeep06/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Mehakdeep06/DSA/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Mehakdeep06/DSA/tree/master/0876-middle-of-the-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Mehakdeep06/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
