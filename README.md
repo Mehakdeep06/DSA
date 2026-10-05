@@ -55,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mehakdeep06/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Mehakdeep06/DSA/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Mehakdeep06/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
