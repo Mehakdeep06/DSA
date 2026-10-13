@@ -24,7 +24,7 @@ class Solution {
             cout++;
             if(cout == size/2){
                 temp.next = temp.next.next;
-                break;
+                
             }
             temp = temp.next;
         }
