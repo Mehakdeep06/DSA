@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Mehakdeep06/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mehakdeep06/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/Mehakdeep06/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1672-richest-customer-wealth](https://github.com/Mehakdeep06/DSA/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/Mehakdeep06/DSA/tree/master/1748-sum-of-unique-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Mehakdeep06/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mehakdeep06/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Mehakdeep06/DSA/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
