@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Mehakdeep06/DSA/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/Mehakdeep06/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mehakdeep06/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/Mehakdeep06/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Mehakdeep06/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/Mehakdeep06/DSA/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/Mehakdeep06/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Mehakdeep06/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mehakdeep06/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Mehakdeep06/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/Mehakdeep06/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
