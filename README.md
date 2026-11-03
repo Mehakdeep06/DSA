@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Mehakdeep06/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Mehakdeep06/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Mehakdeep06/DSA/tree/master/0238-product-of-array-except-self) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Mehakdeep06/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Mehakdeep06/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mehakdeep06/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Mehakdeep06/DSA/tree/master/1046-last-stone-weight) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Mehakdeep06/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Mehakdeep06/DSA/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/Mehakdeep06/DSA/tree/master/0263-ugly-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Mehakdeep06/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Mehakdeep06/DSA/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Mehakdeep06/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/Mehakdeep06/DSA/tree/master/2235-add-two-integers) |
