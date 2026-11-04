@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Mehakdeep06/DSA/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/Mehakdeep06/DSA/tree/master/1748-sum-of-unique-elements) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Mehakdeep06/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3866-first-unique-even-element](https://github.com/Mehakdeep06/DSA/tree/master/3866-first-unique-even-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Mehakdeep06/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mehakdeep06/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Mehakdeep06/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3866-first-unique-even-element](https://github.com/Mehakdeep06/DSA/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Mehakdeep06/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Mehakdeep06/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3866-first-unique-even-element](https://github.com/Mehakdeep06/DSA/tree/master/3866-first-unique-even-element) |
 ## Linked List
 |  |
 | ------- |
